@@ -66,7 +66,7 @@ The winners will be selected by the SPHERE-PPL Team and will be invited to prese
 
 ## How to Submit
 
-If you forked the repo, congratulations, you have already entered the contest. We will run the [Forecast AggregatoR](https://github.com/SPHERE-PPL/Forecast-AggregatoR) the day following the close of the contest and your repo will be collated with the entries.
+If you forked the repo, congratulations, you have almost entered the contest! Make sure to update your repo with your results! We will run the [Forecast AggregatoR](https://github.com/SPHERE-PPL/Forecast-AggregatoR) the day following the close of the contest and your repo will be collated with the entries.
 
 If you did not fork the repo, please send an email to [contest\@sphere-ppl.org](mailto:contest@sphere-ppl.org) with a link to your public github repo where your forecast and report are stored. These will then be collated with the other entries.
 
